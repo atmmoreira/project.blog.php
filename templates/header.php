@@ -2,6 +2,8 @@
 <html lang="en">
 
 <?php include_once('./helpers/url.php'); ?>
+<?php include_once('./database/category.php'); ?>
+<?php include_once('./database/posts.php'); ?>
 
 <head>
   <meta charset="UTF-8">
